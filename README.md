@@ -15,7 +15,7 @@ In the data folder you can find a certain amount of graphs in the .graphml forma
 2. For the k-NN, set the k to 3.
 
 # Expected output
-1. Predicted classes of the graphs
-2. Graph Edit Distance matrix between the validation and training graphs
+1. Predicted classes of the graphs in the form of a csv file with two columns. 1. Graph name and 2. predicted class
+2. Graph Edit Distance matrix between the validation and training graphs in the form of a .csv file.
 
 

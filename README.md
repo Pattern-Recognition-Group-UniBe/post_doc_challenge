@@ -17,4 +17,4 @@ In the data folder you can find a certain amount of graphs in the graphml format
 # Expected output
 1. Predicted classes of the graphs in the form of a csv file with two columns (C1 graph_name, C2 predicted class)
 2. Graph Edit Distance matrix between the test and training graphs in the form of a csv file.
-3. For examples of the output format, see example_output folder
+3. For examples of the output format, see "example_output" folder (the results presented there are not actual results).

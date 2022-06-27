@@ -1,8 +1,8 @@
 # Post Doc Challenge
-The following is a small challenge in order for a future post doc position in our group.
+The following task is a small challenge to overcome when applying for a post-doctoral position in our group.
 
 # Project description
-The idea is to create a graph classification approach based on a k-NN and Graph Edit Distance (GED) (https://en.wikipedia.org/wiki/Graph_edit_distance). To do this, we provide a small set of graphs (see data folder) whose class you need to predict.
+The idea is to create a graph classification approach based on a k-NN and Graph Edit Distance (GED) (https://en.wikipedia.org/wiki/Graph_edit_distance). We provide a small set of graphs (see data folder) whose class you need to predict.
 
 In the data folder you can find a certain amount of graphs in the graphml format as well as two files, train.txt and test.txt which contain the file names of the graphs for the corresponding sets.
 
